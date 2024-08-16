@@ -1,6 +1,6 @@
 class Test {
     public static void main(String[] args) {
-        // Initialize an array of BankCustomers
+        // Initialize an array of Customers
         Customers[] customers = new Customers[10];
         customers[0] = new Customers(1001, "Kamal Dissanayake"     , "savings", 500000);
         customers[1] = new Customers(1002, "Namal Perera",           "current", 975000);
